@@ -22,7 +22,8 @@ I am currently doing a full flex coding bootcamp from 'University of Washington'
   * Github
   * Heroku
 
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PratyushaRaghupatruni&layout=compact)](https://github.com/PratyushaRaghupatruni/github-readme-stats)
+
 ## Github Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PratyushaRaghupatruni&layout=compact)](https://github.com/PratyushaRaghupatruni/github-readme-stats)
 
 [![Pratyusha's github stats](https://github-readme-stats.vercel.app/api?username=PratyushaRaghupatruni&show_icons=true&theme=gruvbox)](https://github.com/PratyushaRaghupatruni/github-readme-stats)
