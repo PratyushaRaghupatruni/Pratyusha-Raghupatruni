@@ -1,4 +1,4 @@
-# Pratyusha-Raghupatruni
+# PratyushaRaghupatruni
 
 ## About me
 I am a Web Developer. I am from India and live in Redmond, WA, USA.I did my Bachelor's degree in Information Technology from JNTU Kakinada,India.
