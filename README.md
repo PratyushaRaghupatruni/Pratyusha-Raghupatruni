@@ -1,11 +1,12 @@
 # PratyushaRaghupatruni
 
 ## About me
-I am a Web Developer. I am from India and live in Redmond, WA, USA.I did my Bachelor's degree in Information Technology from JNTU Kakinada,India.
+Passionate and solutions-driven full stack web developer with a Web Development Certificate from the University of Washington. Strong ability to design, build, and maintain websites from conception to production. Ability to work in a fast-paced and diverse team environment developing solutions and exceeding expectations.
 
 I have 2 years of experience as a Junior Software Engineer in 'Steria India Ltd'.I took a break to start my family and now pursuing options to re-enter the techforce.
-                  
-I am currently doing a full flex coding bootcamp from 'University of Washington'.
+
+I am from India and live in Redmond, WA, USA.I did my Bachelor's degree in Information Technology from JNTU Kakinada,India.
+
 
 [Link to my Portfolio](https://pratyusharaghupatruni.github.io/updated-responsive-portfolio/)
 
