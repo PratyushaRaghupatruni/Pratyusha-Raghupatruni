@@ -5,6 +5,8 @@ Passionate and solutions-driven full stack web developer with a Web Development 
 
 [Link to my Portfolio](https://pratyusharaghupatruni.github.io/updated-responsive-portfolio/)
 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PratyushaRaghupatruni&layout=compact)](https://github.com/PratyushaRaghupatruni/github-readme-stats)
+
 ## Tech Stack
 | Front-End | Back-End |
 |----|----|
@@ -18,8 +20,7 @@ Passionate and solutions-driven full stack web developer with a Web Development 
   * Github
   * Heroku
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PratyushaRaghupatruni&layout=compact)](https://github.com/PratyushaRaghupatruni/github-readme-stats)
-
+ 
 ## Github Stats
 
 [![Pratyusha's github stats](https://github-readme-stats.vercel.app/api?username=PratyushaRaghupatruni&show_icons=true&theme=gruvbox)](https://github.com/PratyushaRaghupatruni/github-readme-stats)
