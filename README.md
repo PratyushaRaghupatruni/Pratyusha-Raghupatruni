@@ -3,10 +3,6 @@
 ## About me
 Passionate and solutions-driven full stack web developer with a Web Development Certificate from the University of Washington and a Bachelor's degree in Information Technology from JNTU Kakinada,India.Strong ability to design, build, and maintain websites from conception to production. Ability to work in a fast-paced and diverse team environment developing solutions and exceeding expectations.
 
-Also have 2 years of experience as a Junior Software Engineer in 'Steria India Ltd'.
-I took a break to start my family and now pursuing options to re-enter the techforce.
-
-
 [Link to my Portfolio](https://pratyusharaghupatruni.github.io/updated-responsive-portfolio/)
 
 ## Tech Stack
