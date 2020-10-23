@@ -17,6 +17,7 @@ Passionate and solutions-driven full stack web developer with a Web Development 
 | React | Mongoose & IndexedDB |
 
 ### Applications:
+  * Git
   * Github
   * Heroku
 
