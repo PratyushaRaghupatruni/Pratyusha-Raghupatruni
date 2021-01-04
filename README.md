@@ -24,9 +24,9 @@ Passionate and solutions-driven full stack web developer with a Web Development 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PratyushaRaghupatruni&layout=compact)](https://github.com/PratyushaRaghupatruni/github-readme-stats)
 
 ### Tech Stack
- Front-End    : JavaScript & JQuery, Handlebars, React, HTML, CSS, Bootstrap, Material UI
- Back-End     : Node.js, Express, MongoDB, Restful APIs, mySQL
- Applications : Git,Github,Heroku
+* **Front-End**    : JavaScript & JQuery, Handlebars, React, HTML, CSS, Bootstrap, Material UI
+* **Back-End**     : Node.js, Express, MongoDB, Restful APIs, mySQL
+* **Applications** : Git,Github,Heroku
 
 ### Github Stats
 
